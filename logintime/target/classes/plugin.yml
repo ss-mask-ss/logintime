@@ -1,0 +1,3 @@
+name: logintome
+version: '1.0.0'
+main: mask.inc.logintome.Logintome
